@@ -1,7 +1,8 @@
 # KAKTAKOMB
 
-this plugin allows you to encrypt and decrypt buffers using a password that you can define via an option
-or using the propmt versions of `encrypt-buffer` and `decrypt-buffer`.
+this plugin allows you to encrypt and decrypt buffers using a password that you can parameterize via the
+`kaktakomb_secret` option or if you privde one argument to the functions `encrypt-buffer` or `decrypt-buffer`
+they will use it as the password
 
 ## NOTE!
 
