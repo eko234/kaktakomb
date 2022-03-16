@@ -16,11 +16,3 @@ plug "eko234/kaktakomb" config %{
   set global kaktakomb_secret YOUR_VERY_SECRET_PASSWORD
 }
 ```
-
-## NOTE!
-
-for some reason this work with relatively small buffers, it must be something
-with me not understanding quite well how openssl works, so if you know better
-I would appreciate if you make a pr or open an issue to help us improve this
-plugin. :)
-
