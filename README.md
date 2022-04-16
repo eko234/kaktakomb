@@ -16,3 +16,6 @@ plug "eko234/kaktakomb" config %{
   set global kaktakomb_secret YOUR_VERY_SECRET_PASSWORD
 }
 ```
+
+## todo 
+Make commands to work on selections
